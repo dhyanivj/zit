@@ -5855,6 +5855,7 @@ h6 {
   background-color: var(--ogency-black);
   position: relative;
   padding: 31px 163px 90px;
+  padding-bottom: 0px;
 }
 
 .team-one.team-two {
